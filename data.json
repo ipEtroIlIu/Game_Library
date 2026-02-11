@@ -1,0 +1,1530 @@
+{
+	"played": [
+		{
+			"name": "SOMA",
+			"image": "images/SOMA.jpg",
+			"finished": true,
+			"rating": 9,
+			"love": ["Атмосфера", "Сюжет", "Напряженность"]
+		},
+		{
+			"name": "Portal",
+			"image": "images/Portal.jpg",
+			"finished": true,
+			"rating": 9,
+			"love": ["Головоломки", "Механики"]
+		},
+		{
+			"name": "Portal 2",
+			"image": "images/Portal2.jpg",
+			"finished": true,
+			"rating": 10,
+			"love": ["Юмор", "Озвучка", "Кооперативный режим"]
+		},
+		{
+			"name": "Minecraft",
+			"image": "images/Minecraft.jpg",
+			"finished": true,
+			"rating": 10,
+			"love": ["Свобода", "Возможности", "Выживание"]
+		},
+		{
+			"name": "The Stanley Parable",
+			"image": "images/TheStanleyParable.jpg",
+			"finished": true,
+			"rating": 9,
+			"love": ["Рассказчик", "Озвучка", "Юмор"]
+		},
+		{
+			"name": "The Stanley Parable: Ultra Deluxe",
+			"image": "images/TheStanleyParableUltraDeluxe.jpg",
+			"finished": true,
+			"rating": 10,
+			"love": ["Повествование", "Графика"]
+		},
+		{
+			"name": "Mirror's Edge",
+			"image": "images/MirrorsEdge.jpg",
+			"finished": true,
+			"rating": 8,
+			"love": ["Паркур", "Графика", "Музыка"]
+		},
+		{
+			"name": "Mirror's Edge: Catalyst",
+			"image": "images/MirrorsEdgeCatalyst.jpg",
+			"finished": true,
+			"rating": 9,
+			"love": ["Паркур", "Открытый мир", "Сюжет"]
+		},
+		{
+			"name": "Growtopia",
+			"image": "images/Growtopia.jpg",
+			"finished": "",
+			"rating": 3,
+			"love": ["Возможности"]
+		},
+		{
+			"name": "Subnautica",
+			"image": "images/Subnautica.jpg",
+			"finished": true,
+			"rating": 10,
+			"love": ["Геймплей", "Механики", "Открытый мир"]
+		},
+		{
+			"name": "Subnautica: Below Zero",
+			"image": "images/SubnauticaBelowZero.jpg",
+			"finished": true,
+			"rating": 8,
+			"love": ["Графика", "Сюжет", "Атмосфера"]
+		},
+		{
+			"name": "Dying Light",
+			"image": "images/DyingLight.jpg",
+			"finished": true,
+			"rating": 9,
+			"love": ["Сюжет", "Паркур", "Геймплей"]
+		},
+		{
+			"name": "Dying Light 2 Stay Human",
+			"image": "images/DyingLight2StayHuman.jpg",
+			"finished": false,
+			"rating": 7,
+			"love": ["Графика"]
+		},
+		{
+			"name": "Genshin Impact",
+			"image": "images/GenshinImpact.jpg",
+			"finished": false,
+			"rating": 6,
+			"love": ["Сюжет", "Геймплей", "Персонажи"]
+		},
+		{
+			"name": "Asphalt Legends",
+			"image": "images/AsphaltLegends.jpg",
+			"finished": false,
+			"rating": 7,
+			"love": ["Геймплей", "Графика", "Эффекты"]
+		},
+		{
+			"name": "Raft",
+			"image": "images/Raft.jpg",
+			"finished": false,
+			"rating": 6,
+			"love": ["Выживание", "Исследование"]
+		},
+		{
+			"name": "Firewatch",
+			"image": "images/Firewatch.jpg",
+			"finished": true,
+			"rating": 9,
+			"love": ["Атмосфера", "Сюжет", "Графика"]
+		},
+		{
+			"name": "Fortnite",
+			"image": "images/Fortnite.jpg",
+			"finished": "",
+			"rating": 5,
+			"love": ["Возможности", "Геймплей"]
+		},
+		{
+			"name": "Getting Over It with Bennett Foddy",
+			"image": "images/GettingOverItwithBennettFoddy.jpg",
+			"finished": false,
+			"rating": 7,
+			"love": ["Сложность", "Юмор"]
+		},
+		{
+			"name": "The Evil Within",
+			"image": "images/TheEvilWithin.jpg",
+			"finished": false,
+			"rating": 6,
+			"love": ["Атмосфера"]
+		},
+		{
+			"name": "Among Us",
+			"image": "images/AmongUs.jpg",
+			"finished": "",
+			"rating": 5,
+			"love": ["Коммуникация"]
+		},
+		{
+			"name": "Geometry Dash",
+			"image": "images/GeometryDash.jpg",
+			"finished": false,
+			"rating": 9,
+			"love": ["Сложность", "Музыка", "Геймплей"]
+		},
+		{
+			"name": "PUBG: Battlegrounds",
+			"image": "images/PUBGBattlegrounds.jpg",
+			"finished": "",
+			"rating": 5,
+			"love": ["Доступность"]
+		},
+		{
+			"name": "Slime Rancher",
+			"image": "images/SlimeRancher.jpg",
+			"finished": true,
+			"rating": 9,
+			"love": ["Геймплей", "Графика"]
+		},
+		{
+			"name": "Forza Horizon 4",
+			"image": "images/ForzaHorizon4.jpg",
+			"finished": false,
+			"rating": 7,
+			"love": ["Графика", "Музыка"]
+		},
+		{
+			"name": "Forza Horizon 5",
+			"image": "images/ForzaHorizon5.jpg",
+			"finished": false,
+			"rating": 8,
+			"love": ["Детализация", "Графика"]
+		},
+		{
+			"name": "Need for Speed Payback",
+			"image": "images/NeedforSpeedPayback.jpg",
+			"finished": false,
+			"rating": 6,
+			"love": ["Сюжет", "Машины"]
+		},
+		{
+			"name": "World of Tanks",
+			"image": "images/WorldofTanks.jpg",
+			"finished": "",
+			"rating": 3,
+			"love": ["Доступность"]
+		},
+		{
+			"name": "Plague Inc: Evolved",
+			"image": "images/PlagueIncEvolved.jpg",
+			"finished": false,
+			"rating": 7,
+			"love": ["Стратегия", "Геймплей"]
+		},
+		{
+			"name": "Bully",
+			"image": "images/Bully.jpg",
+			"finished": false,
+			"rating": 6,
+			"love": ["Возможности", "Геймплей"]
+		},
+		{
+			"name": "Styx: Master of Shadows",
+			"image": "images/StyxMasterofShadows.jpg",
+			"finished": true,
+			"rating": 10,
+			"love": ["Сюжет", "Стелс", "Юмор"]
+		},
+		{
+			"name": "Styx: Shards of Darkness",
+			"image": "images/StyxShardsofDarkness.jpg",
+			"finished": true,
+			"rating": 9,
+			"love": ["Сюжет", "Графика"]
+		},
+		{
+			"name": "Limbo",
+			"image": "images/Limbo.jpg",
+			"finished": true,
+			"rating": 9,
+			"love": ["Атмосфера", "Геймплей", "Музыка"]
+		},
+		{
+			"name": "Katana Zero",
+			"image": "images/KatanaZero.jpg",
+			"finished": true,
+			"rating": 8,
+			"love": ["Механики", "Музыка"]
+		},
+		{
+			"name": "Townscaper",
+			"image": "images/Townscaper.jpg",
+			"finished": "",
+			"rating": 9,
+			"love": ["Геймплей", "Графика", "Уют"]
+		},
+		{
+			"name": "XIII",
+			"image": "images/XIII.jpg",
+			"finished": true,
+			"rating": 7,
+			"love": ["Сюжет", "Подача", "Графика"]
+		},
+		{
+			"name": "Valheim",
+			"image": "images/Valheim.jpg",
+			"finished": false,
+			"rating": 6,
+			"love": ["Выживание", "Исследование"]
+		},
+		{
+			"name": "The Binding of Isaac",
+			"image": "images/TheBindingofIsaac.jpg",
+			"finished": false,
+			"rating": 5,
+			"love": ["Геймплей", "Музыка"]
+		},
+		{
+			"name": "Overcooked! 2",
+			"image": "images/Overcooked2.jpg",
+			"finished": false,
+			"rating": 3,
+			"love": ["Геймплей"]
+		},
+		{
+			"name": "I Am Alive",
+			"image": "images/IAmAlive.jpg",
+			"finished": true,
+			"rating": 9,
+			"love": ["Геймплей", "Механики", "Атмосфера"]
+		},
+		{
+			"name": "Just Shapes & Beats",
+			"image": "images/JustShapesBeats.jpg",
+			"finished": true,
+			"rating": 8,
+			"love": ["Музыка", "Графика"]
+		},
+		{
+			"name": "LEGO City Undercover",
+			"image": "images/LEGOCityUndercover.jpg",
+			"finished": false,
+			"rating": 7,
+			"love": ["Геймплей", "Графика"]
+		},
+		{
+			"name": "It Takes Two",
+			"image": "images/ItTakesTwo.jpg",
+			"finished": true,
+			"rating": 10,
+			"love": ["Сюжет", "Геймплей", "Кооператив"]
+		},
+		{
+			"name": "A Way Out",
+			"image": "images/AWayOut.jpg",
+			"finished": true,
+			"rating": 10,
+			"love": ["Сюжет", "Геймплей", "Кооператив"]
+		},
+		{
+			"name": "Honkai: Star Rail",
+			"image": "images/HonkaiStarRail.jpg",
+			"finished": false,
+			"rating": 9,
+			"love": ["Сюжет", "Награды", "Анимации"]
+		},
+		{
+			"name": "The Darkness II",
+			"image": "images/TheDarknessII.jpg",
+			"finished": true,
+			"rating": 6,
+			"love": ["Геймплей", "Сюжет"]
+		},
+		{
+			"name": "SUPERHOT",
+			"image": "images/SUPERHOT.jpg",
+			"finished": true,
+			"rating": 9,
+			"love": ["Геймплей", "Графика"]
+		},
+		{
+			"name": "Twelve Minutes",
+			"image": "images/TwelveMinutes.jpg",
+			"finished": true,
+			"rating": 8,
+			"love": ["Геймплей", "Сюжет", "Атмосфера"]
+		},
+		{
+			"name": "Stubbs the Zombie in Rebel Without a Pulse",
+			"image": "images/StubbstheZombieinRebelWithoutaPulse.jpg",
+			"finished": true,
+			"rating": 6,
+			"love": ["Сюжет"]
+		},
+		{
+			"name": "The Witcher",
+			"image": "images/TheWitcher.jpg",
+			"finished": true,
+			"rating": 9,
+			"love": ["Сюжет", "Геймплей", "Диалоги"]
+		},
+		{
+			"name": "The Walking Dead",
+			"image": "images/TheWalkingDead.jpg",
+			"finished": true,
+			"rating": 10,
+			"love": ["Сюжет", "Графика", "Геймплей"]
+		},
+		{
+			"name": "The Walking Dead: Season Two",
+			"image": "images/TheWalkingDeadSeasonTwo.jpg",
+			"finished": true,
+			"rating": 10,
+			"love": ["Сюжет", "Графика", "Геймплей"]
+		},
+		{
+			"name": "The Walking Dead: A New Frontier",
+			"image": "images/TheWalkingDeadANewFrontier.jpg",
+			"finished": true,
+			"rating": 10,
+			"love": ["Сюжет", "Графика", "Геймплей"]
+		},
+		{
+			"name": "The Walking Dead: The Final Season",
+			"image": "images/TheWalkingDeadTheFinalSeason.jpg",
+			"finished": true,
+			"rating": 10,
+			"love": ["Сюжет", "Графика", "Геймплей"]
+		},
+		{
+			"name": "A Plague Tale: Innocence",
+			"image": "images/APlagueTaleInnocence.jpg",
+			"finished": true,
+			"rating": 9,
+			"love": ["Сюжет", "Геймплей"]
+		},
+		{
+			"name": "Kena Bridge of Spirits",
+			"image": "images/KenaBridgeofSpirits.jpg",
+			"finished": false,
+			"rating": 6,
+			"love": ["Геймплей"]
+		},
+		{
+			"name": "HITMAN World of Assassination",
+			"image": "images/HITMANWorldofAssassination.jpg",
+			"finished": true,
+			"rating": 10,
+			"love": ["Проработка", "Графика", "Геймплей"]
+		},
+		{
+			"name": "Stray",
+			"image": "images/Stray.jpg",
+			"finished": true,
+			"rating": 10,
+			"love": ["Уют", "Графика", "Геймплей"]
+		},
+		{
+			"name": "Endling: Extinction is Forever",
+			"image": "images/EndlingExtinctionisForever.jpg",
+			"finished": true,
+			"rating": 6,
+			"love": ["Геймплей"]
+		},
+		{
+			"name": "The Shattering",
+			"image": "images/TheShattering.jpg",
+			"finished": true,
+			"rating": 10,
+			"love": ["Сюжет", "Графика", "Подача"]
+		},
+		{
+			"name": "Thief",
+			"image": "images/Thief.jpg",
+			"finished": true,
+			"rating": 8,
+			"love": ["Сюжет", "Стелс"]
+		},
+		{
+			"name": "Dead Island",
+			"image": "images/DeadIsland.jpg",
+			"finished": true,
+			"rating": 4,
+			"love": ["Геймплей"]
+		},
+		{
+			"name": "Destiny 2",
+			"image": "images/Destiny2.jpg",
+			"finished": false,
+			"rating": 2,
+			"love": ["Геймплей"]
+		},
+		{
+			"name": "Assassin's Creed Syndicate",
+			"image": "images/AssassinsCreedSyndicate.jpg",
+			"finished": false,
+			"rating": 5,
+			"love": ["Графика"]
+		},
+		{
+			"name": "Assassins Creed Odyssey",
+			"image": "images/AssassinsCreedOdyssey.jpg",
+			"finished": false,
+			"rating": 6,
+			"love": ["Сюжет", "Открытый мир"]
+		},
+		{
+			"name": "Crossout",
+			"image": "images/Crossout.jpg",
+			"finished": "",
+			"rating": 2,
+			"love": ["Возможности"]
+		},
+		{
+			"name": "WarThunder",
+			"image": "images/WarThunder.jpg",
+			"finished": "",
+			"rating": 2,
+			"love": ["Бои"]
+		},
+		{
+			"name": "Hello Neighbor",
+			"image": "images/HelloNeighbor.jpg",
+			"finished": false,
+			"rating": 5,
+			"love": ["Сюжет"]
+		},
+		{
+			"name": "Lethal Company",
+			"image": "images/LethalCompany.jpg",
+			"finished": "",
+			"rating": 4,
+			"love": ["Графика"]
+		},
+		{
+			"name": "Project Zomboid",
+			"image": "images/ProjectZomboid.jpg",
+			"finished": "",
+			"rating": 3,
+			"love": ["Геймплей", "Юмор"]
+		},
+		{
+			"name": "Dishonored",
+			"image": "images/Dishonored.jpg",
+			"finished": false,
+			"rating": 8,
+			"love": ["Сюжет", "Стелс"]
+		},
+		{
+			"name": "Dishonored 2",
+			"image": "images/Dishonored2.jpg",
+			"finished": true,
+			"rating": 7,
+			"love": ["Геймплей", "Графика"]
+		},
+		{
+			"name": "Ghostrunner",
+			"image": "images/Ghostrunner.jpg",
+			"finished": true,
+			"rating": 10,
+			"love": ["Сложность", "Геймплей", "Графика"]
+		},
+		{
+			"name": "Ghostrunner 2",
+			"image": "images/Ghostrunner2.jpg",
+			"finished": true,
+			"rating": 9,
+			"love": ["Сложность", "Сюжет"]
+		},
+		{
+			"name": "Cocoon",
+			"image": "images/Cocoon.jpg",
+			"finished": true,
+			"rating": 6,
+			"love": ["Механики", "Геймплей"]
+		},
+		{
+			"name": "Please Fix The Road",
+			"image": "images/PleaseFixTheRoad.jpg",
+			"finished": false,
+			"rating": 4,
+			"love": ["Геймплей"]
+		},
+		{
+			"name": "Valorant",
+			"image": "images/Valorant.jpg",
+			"finished": "",
+			"rating": 9,
+			"love": ["Геймплей", "Командная игра", "Стратегия"]
+		},
+		{
+			"name": "Superliminal",
+			"image": "images/Superliminal.jpg",
+			"finished": true,
+			"rating": 10,
+			"love": ["Возможности", "Механики", "Геймплей"]
+		},
+		{
+			"name": "Goat Simulator 3",
+			"image": "images/GoatSimulator3.jpg",
+			"finished": false,
+			"rating": 8,
+			"love": ["Геймплей", "Юмор", "Возможности"]
+		},
+		{
+			"name": "Alien: Isolation",
+			"image": "images/AlienIsolation.jpg",
+			"finished": true,
+			"rating": 9,
+			"love": ["Атмосфера", "Стелс"]
+		},
+		{
+			"name": "Cyber Hook",
+			"image": "images/CyberHook.jpg",
+			"finished": false,
+			"rating": 6,
+			"love": ["Паркур", "Геймплей"]
+		},
+		{
+			"name": "Inscryption",
+			"image": "images/Inscryption.jpg",
+			"finished": true,
+			"rating": 10,
+			"love": ["Геймплей", "Механики"]
+		},
+		{
+			"name": "Inside",
+			"image": "images/Inside.jpg",
+			"finished": true,
+			"rating": 8,
+			"love": ["Атмосфера"]
+		},
+		{
+			"name": "Melatonin",
+			"image": "images/Melatonin.jpg",
+			"finished": true,
+			"rating": 9,
+			"love": ["Музыка", "Уют", "Графика"]
+		},
+		{
+			"name": "Disco Elysium",
+			"image": "images/DiscoElysium.jpg",
+			"finished": true,
+			"rating": 9,
+			"love": ["Сюжет", "Персонажи", "Мир"]
+		},
+		{
+			"name": "Detroit: Become Human",
+			"image": "images/DetroitBecomeHuman.jpg",
+			"finished": true,
+			"rating": 10,
+			"love": ["Сюжет", "Геймплей", "Вариативность"]
+		},
+		{
+			"name": "Rise of the Tomb Raider",
+			"image": "images/RiseoftheTombRaider.jpg",
+			"finished": false,
+			"rating": 5,
+			"love": ["Геймплей"]
+		},
+		{
+			"name": "A Plague Tale: Requiem",
+			"image": "images/APlagueTaleRequiem.jpg",
+			"finished": true,
+			"rating": 10,
+			"love": ["Сюжет", "Графика"]
+		},
+		{
+			"name": "The Invincible",
+			"image": "images/TheInvincible.jpg",
+			"finished": true,
+			"rating": 7,
+			"love": ["Мир", "Геймплей"]
+		},
+		{
+			"name": "Marvels Spider Man Miles Morales",
+			"image": "images/MarvelsSpiderManMilesMorales.jpg",
+			"finished": true,
+			"rating": 9,
+			"love": ["Сюжет", "Атмосфера"]
+		},
+		{
+			"name": "Control",
+			"image": "images/Control.jpg",
+			"finished": true,
+			"rating": 9,
+			"love": ["Геймплей", "Графика", "Разрушаемость"]
+		},
+		{
+			"name": "Ghostwire: Tokyo",
+			"image": "images/GhostwireTokyo.jpg",
+			"finished": false,
+			"rating": 3,
+			"love": ["Стиль"]
+		},
+		{
+			"name": "Hellblade: Senua's Sacrifice",
+			"image": "images/HellbladeSenuasSacrifice.jpg",
+			"finished": true,
+			"rating": 9,
+			"love": ["Механики", "Сюжет", "Графика"]
+		},
+		{
+			"name": "Atomic Heart",
+			"image": "images/AtomicHeart.jpg",
+			"finished": false,
+			"rating": 6,
+			"love": ["Сюжет", "Окружение"]
+		},
+		{
+			"name": "Metro Exodus",
+			"image": "images/MetroExodus.jpg",
+			"finished": true,
+			"rating": 9,
+			"love": ["Сюжет"]
+		},
+		{
+			"name": "Horizon Zero Dawn",
+			"image": "images/HorizonZeroDawn.jpg",
+			"finished": true,
+			"rating": 8,
+			"love": ["Сюжет"]
+		},
+		{
+			"name": "Quantum Break",
+			"image": "images/QuantumBreak.jpg",
+			"finished": true,
+			"rating": 7,
+			"love": ["Механики"]
+		},
+		{
+			"name": "Marvel's Spider-Man",
+			"image": "images/MarvelsSpiderMan.jpg",
+			"finished": true,
+			"rating": 8,
+			"love": ["Управление", "Сюжет"]
+		},
+		{
+			"name": "Lies Of P",
+			"image": "images/LiesOfP.jpg",
+			"finished": false,
+			"rating": 5,
+			"love": ["Стиль"]
+		},
+		{
+			"name": "DEATHLOOP",
+			"image": "images/DEATHLOOP.jpg",
+			"finished": false,
+			"rating": 7,
+			"love": ["Механики", "Графика"]
+		},
+		{
+			"name": "Death Stranding",
+			"image": "images/DeathStranding.jpg",
+			"finished": true,
+			"rating": 10,
+			"love": ["Графика", "Нюансы", "Сюжет"]
+		},
+		{
+			"name": "Little Nightmares",
+			"image": "images/LittleNightmares.jpg",
+			"finished": true,
+			"rating": 9,
+			"love": ["Атмосфера", "Геймплей"]
+		},
+		{
+			"name": "Far Cry 3",
+			"image": "images/FarCry3.jpg",
+			"finished": true,
+			"rating": 8,
+			"love": ["Персонажи", "Геймплей", "Открытый мир"]
+		},
+		{
+			"name": "Far Cry 4",
+			"image": "images/FarCry4.jpg",
+			"finished": true,
+			"rating": 9,
+			"love": ["Сюжет", "Открытый мир"]
+		},
+		{
+			"name": "Far Cry 6",
+			"image": "images/FarCry6.jpg",
+			"finished": false,
+			"rating": 7,
+			"love": ["Графика"]
+		},
+		{
+			"name": "Days Gone",
+			"image": "images/DaysGone.jpg",
+			"finished": true,
+			"rating": 9,
+			"love": ["Графика", "Геймплей", "Механики"]
+		},
+		{
+			"name": "Cyberpunk 2077",
+			"image": "images/Cyberpunk2077.jpg",
+			"finished": true,
+			"rating": 10,
+			"love": ["Графика", "Мир", "Персонажи"]
+		},
+		{
+			"name": "Cult of the Lamb",
+			"image": "images/CultoftheLamb.jpg",
+			"finished": true,
+			"rating": 7,
+			"love": ["Атмосфера", "Механики"]
+		},
+		{
+			"name": "An alt girl for skoof",
+			"image": "images/Analtgirlforskoof.jpg",
+			"finished": true,
+			"rating": 6,
+			"love": ["Сюжет", "Юмор"]
+		},
+		{
+			"name": "Black Book",
+			"image": "images/BlackBook.jpg",
+			"finished": false,
+			"rating": 8,
+			"love": ["Подача", "Механики"]
+		},
+		{
+			"name": "Beyond: Two Souls",
+			"image": "images/BeyondTwoSouls.jpg",
+			"finished": true,
+			"rating": 8,
+			"love": ["Сюжет"]
+		},
+		{
+			"name": "Life is Strange",
+			"image": "images/LifeisStrange.jpg",
+			"finished": false,
+			"rating": 7,
+			"love": ["Сюжет", "Механики"]
+		},
+		{
+			"name": "Hollow Knight",
+			"image": "images/HollowKnight.jpg",
+			"finished": false,
+			"rating": 5,
+			"love": ["Стиль", "Геймплей"]
+		},
+		{
+			"name": "Teardown",
+			"image": "images/Teardown.jpg",
+			"finished": true,
+			"rating": 8,
+			"love": ["Разрушаемость"]
+		},
+		{
+			"name": "Among Trees",
+			"image": "images/AmongTrees.jpg",
+			"finished": false,
+			"rating": 7,
+			"love": ["Графика", "Стиль"]
+		},
+		{
+			"name": "Just Cause 3",
+			"image": "images/JustCause3.jpg",
+			"finished": false,
+			"rating": 7,
+			"love": ["Управление", "Механики"]
+		},
+		{
+			"name": "The Uncertain: Last Quiet Day",
+			"image": "images/TheUncertainLastQuietDay.jpg",
+			"finished": true,
+			"rating": 6,
+			"love": ["Механики", "Сюжет"]
+		},
+		{
+			"name": "The Uncertain: Light At The End",
+			"image": "images/TheUncertainLightAtTheEnd.jpg",
+			"finished": true,
+			"rating": 5,
+			"love": ["Сюжет"]
+		},
+		{
+			"name": "Prey",
+			"image": "images/Prey.jpg",
+			"finished": true,
+			"rating": 10,
+			"love": ["Атмосфера", "Сюжет", "Геймплей"]
+		},
+		{
+			"name": "Autopsy Simulator",
+			"image": "images/AutopsySimulator.jpg",
+			"finished": true,
+			"rating": 9,
+			"love": ["Атмосфера", "Детализация", "Геймплей"]
+		},
+		{
+			"name": "The Last of Us Part I",
+			"image": "images/TheLastofUsPartI.jpg",
+			"finished": true,
+			"rating": 9,
+			"love": ["Сюжет", "Графика"]
+		},
+		{
+			"name": "Machinika Museum",
+			"image": "images/MachinikaMuseum.jpg",
+			"finished": true,
+			"rating": 4,
+			"love": ["Головоломки"]
+		},
+		{
+			"name": "CATO",
+			"image": "images/CATO.jpg",
+			"finished": false,
+			"rating": 9,
+			"love": ["Стиль", "Механики", "Управление"]
+		},
+		{
+			"name": "Until Dawn",
+			"image": "images/UntilDawn.jpg",
+			"finished": false,
+			"rating": 6,
+			"love": ["Атмосфера", "Графика"]
+		},
+		{
+			"name": "High On Life",
+			"image": "images/HighOnLife.jpg",
+			"finished": true,
+			"rating": 10,
+			"love": ["Юмор", "Мир", "Персонажи"]
+		},
+		{
+			"name": "The Callisto Protocol",
+			"image": "images/TheCallistoProtocol.jpg",
+			"finished": false,
+			"rating": 2,
+			"love": ["Локации"]
+		},
+		{
+			"name": "God of War: Ragnarök",
+			"image": "images/GodofWarRagnark.jpg",
+			"finished": true,
+			"rating": 10,
+			"love": ["Сюжет", "Графика", "Масштабность"]
+		},
+		{
+			"name": "Nobody Wants to Die",
+			"image": "images/NobodyWantstoDie.jpg",
+			"finished": true,
+			"rating": 7,
+			"love": ["Музыка", "Механики"]
+		},
+		{
+			"name": "Bramble: The Mountain King",
+			"image": "images/BrambleTheMountainKing.jpg",
+			"finished": true,
+			"rating": 9,
+			"love": ["Повествование", "Сюжет", "Атмосфера"]
+		},
+		{
+			"name": "Portal: Revolution",
+			"image": "images/PortalRevolution.jpg",
+			"finished": true,
+			"rating": 6,
+			"love": ["Уровни", "Сюжет"]
+		},
+		{
+			"name": "Half-Life",
+			"image": "images/HalfLife.jpg",
+			"finished": true,
+			"rating": 7,
+			"love": ["Сюжет", "Мир"]
+		},
+		{
+			"name": "THE FINALS",
+			"image": "images/THEFINALS.jpg",
+			"finished": "",
+			"rating": 4,
+			"love": ["Управление", "Паркур", "Графика"]
+		},
+		{
+			"name": "Strinova",
+			"image": "images/Strinova.jpg",
+			"finished": "",
+			"rating": 5,
+			"love": ["Механики"]
+		},
+		{
+			"name": "OMORI",
+			"image": "images/OMORI.jpg",
+			"finished": false,
+			"rating": 7,
+			"love": ["Сюжет", "Стиль"]
+		},
+		{
+			"name": "Mafia",
+			"image": "images/Mafia.jpg",
+			"finished": true,
+			"rating": 9,
+			"love": ["Сюжет", "Графика", "Вождение"]
+		},
+		{
+			"name": "MiSide",
+			"image": "images/MiSide.jpg",
+			"finished": true,
+			"rating": 10,
+			"love": ["Сюжет", "Стиль", "Механики"]
+		},
+		{
+			"name": "Beyond Blue",
+			"image": "images/BeyondBlue.jpg",
+			"finished": false,
+			"rating": 3,
+			"love": ["Исследование"]
+		},
+		{
+			"name": "Portal Reloaded",
+			"image": "images/PortalReloaded.jpg",
+			"finished": true,
+			"rating": 9,
+			"love": ["Механики", "Уровни"]
+		},
+		{
+			"name": "NAIAD",
+			"image": "images/NAIAD.jpg",
+			"finished": true,
+			"rating": 8,
+			"love": ["Стиль", "Уют", "Атмосфера"]
+		},
+		{
+			"name": "#DRIVE Rally",
+			"image": "images/DRIVERally.jpg",
+			"finished": false,
+			"rating": 5,
+			"love": ["Вождение", "Стиль"]
+		},
+		{
+			"name": "Lushfoil Photography Sim",
+			"image": "images/LushfoilPhotographySim.jpg",
+			"finished": true,
+			"rating": 10,
+			"love": ["Графика", "Механики", "Локации"]
+		},
+		{
+			"name": "What Remains of Edith Finch",
+			"image": "images/WhatRemainsofEdithFinch.jpg",
+			"finished": true,
+			"rating": 10,
+			"love": ["Сюжет", "Подача", "Концепции"]
+		},
+		{
+			"name": "Alan Wake",
+			"image": "images/AlanWake.jpg",
+			"finished": false,
+			"rating": 3,
+			"love": ["Подача"]
+		},
+		{
+			"name": "The Lord of the Rings: Return to Moria",
+			"image": "images/TheLordoftheRingsReturntoMoria.jpg",
+			"finished": false,
+			"rating": 5,
+			"love": ["Механики", "Возможности"]
+		},
+		{
+			"name": "Ghost of Tsushima",
+			"image": "images/GhostofTsushima.jpg",
+			"finished": false,
+			"rating": 10,
+			"love": ["Сюжет", "Геймплей", "Графика"]
+		},
+		{
+			"name": "The Outer Worlds",
+			"image": "images/TheOuterWorlds.jpg",
+			"finished": true,
+			"rating": 7,
+			"love": ["Мир", "Графика", "Юмор"]
+		},
+		{
+			"name": "Endoparasitic",
+			"image": "images/Endoparasitic.jpg",
+			"finished": false,
+			"rating": 6,
+			"love": ["Управление", "Стиль"]
+		},
+		{
+			"name": "POOLS",
+			"image": "images/POOLS.jpg",
+			"finished": true,
+			"rating": 10,
+			"love": ["Атмосфера", "Графика", "Стиль"]
+		},
+		{
+			"name": "Jusant",
+			"image": "images/Jusant.jpg",
+			"finished": true,
+			"rating": 9,
+			"love": ["Сюжет", "Стиль", "Локации"]
+		},
+		{
+			"name": "Heavy Rain",
+			"image": "images/HeavyRain.jpg",
+			"finished": true,
+			"rating": 8,
+			"love": ["Сюжет", "Механики"]
+		},
+		{
+			"name": "Wait! Life is beautiful!",
+			"image": "images/WaitLifeisbeautiful.jpg",
+			"finished": true,
+			"rating": 7,
+			"love": ["Механики", "Персонажи"]
+		},
+		{
+			"name": "The Artful Escape",
+			"image": "images/TheArtfulEscape.jpg",
+			"finished": false,
+			"rating": 7,
+			"love": ["Музыка", "Стиль"]
+		},
+		{
+			"name": "Monsters of Little Haven",
+			"image": "images/MonstersofLittleHaven.jpg",
+			"finished": false,
+			"rating": 6,
+			"love": ["Сюжет", "Подача"]
+		},
+		{
+			"name": "Now Testing: 407",
+			"image": "images/NowTesting407.jpg",
+			"finished": true,
+			"rating": 7,
+			"love": ["Графика", "Механики", "Локации"]
+		},
+		{
+			"name": "Mosaic",
+			"image": "images/Mosaic.jpg",
+			"finished": true,
+			"rating": 7,
+			"love": ["Сюжет", "Геймплей", "Стиль"]
+		},
+		{
+			"name": "Shady Part of Me",
+			"image": "images/ShadyPartofMe.jpg",
+			"finished": true,
+			"rating": 10,
+			"love": ["Механики", "Музыка", "Стиль"]
+		},
+		{
+			"name": "Overland",
+			"image": "images/Overland.jpg",
+			"finished": true,
+			"rating": 6,
+			"love": ["Геймплей", "Стиль"]
+		},
+		{
+			"name": "60 Parsecs!",
+			"image": "images/60Parsecs.jpg",
+			"finished": true,
+			"rating": 6,
+			"love": ["Сюжет", "Геймплей", "Стиль"]
+		},
+		{
+			"name": "60 Seconds!",
+			"image": "images/60Seconds.jpg",
+			"finished": true,
+			"rating": 6,
+			"love": ["Геймплей", "Стиль"]
+		},
+		{
+			"name": "Fate Of Kai",
+			"image": "images/FateOfKai.jpg",
+			"finished": true,
+			"rating": 9,
+			"love": ["Механики", "Сюжет", "Подача"]
+		},
+		{
+			"name": "White Night",
+			"image": "images/WhiteNight.jpg",
+			"finished": true,
+			"rating": 10,
+			"love": ["Атмосфера", "Графика", "Сюжет"]
+		},
+		{
+			"name": "Dead Island 2",
+			"image": "images/DeadIsland2.jpg",
+			"finished": true,
+			"rating": 6,
+			"love": ["Насилие", "Графика"]
+		},
+		{
+			"name": "R.E.P.O.",
+			"image": "images/REPO.jpg",
+			"finished": "",
+			"rating": 9,
+			"love": ["Коммуникация", "Геймплей", "Стиль"]
+		},
+		{
+			"name": "Content Warning",
+			"image": "images/ContentWarning.jpg",
+			"finished": "",
+			"rating": 6,
+			"love": ["Механики"]
+		},
+		{
+			"name": "If Found…",
+			"image": "images/IfFound.jpg",
+			"finished": true,
+			"rating": 8,
+			"love": ["Сюжет", "Подача", "Механики"]
+		},
+		{
+			"name": "The Fall",
+			"image": "images/TheFall.jpg",
+			"finished": false,
+			"rating": 6,
+			"love": ["Механики"]
+		},
+		{
+			"name": "God of War",
+			"image": "images/GodofWar.jpg",
+			"finished": true,
+			"rating": 10,
+			"love": ["Масштабность", "Графика", "Мир"]
+		},
+		{
+			"name": "Deadlock",
+			"image": "images/Deadlock.jpg",
+			"finished": "",
+			"rating": 6,
+			"love": ["Геймплей"]
+		},
+		{
+			"name": "The Forest",
+			"image": "images/TheForest.jpg",
+			"finished": true,
+			"rating": 8,
+			"love": ["Сюжет", "Механики", "Исследование"]
+		},
+		{
+			"name": "Just Die Already",
+			"image": "images/JustDieAlready.jpg",
+			"finished": true,
+			"rating": 7,
+			"love": ["Мир", "Возможности"]
+		},
+		{
+			"name": "Roboquest",
+			"image": "images/Roboquest.jpg",
+			"finished": true,
+			"rating": 9,
+			"love": ["Геймплей", "Стиль", "Сюжет"]
+		},
+		{
+			"name": "Horizon Forbidden West",
+			"image": "images/HorizonForbiddenWest.jpg",
+			"finished": true,
+			"rating": 10,
+			"love": ["Сюжет", "Графика", "Мир"]
+		},
+		{
+			"name": "The RPG",
+			"image": "images/TheRPG.jpg",
+			"finished": true,
+			"rating": 9,
+			"love": ["Юмор", "Подача", "Стиль"]
+		},
+		{
+			"name": "Twisted Gallery",
+			"image": "images/TwistedGallery.jpg",
+			"finished": true,
+			"rating": 10,
+			"love": ["Стиль", "Графика", "Атмосфера"]
+		},
+		{
+			"name": "Who's at the door?",
+			"image": "images/Whosatthedoor.jpg",
+			"finished": false,
+			"rating": 6,
+			"love": ["Сюжет", "Атмосфера"]
+		},
+		{
+			"name": "The Drifter",
+			"image": "images/TheDrifter.jpg",
+			"finished": true,
+			"rating": 10,
+			"love": ["Сюжет", "Механики", "Геймплей"]
+		},
+		{
+			"name": "Drive Beyond Horizons",
+			"image": "images/DriveBeyondHorizons.jpg",
+			"finished": true,
+			"rating": 9,
+			"love": ["Вождение", "Механики"]
+		},
+		{
+			"name": "Out Of Sight",
+			"image": "images/OutOfSight.jpg",
+			"finished": true,
+			"rating": 10,
+			"love": ["Атмосфера", "Механики", "Графика"]
+		},
+		{
+			"name": "Static Dread: The Lighthouse",
+			"image": "images/StaticDreadTheLighthouse.jpg",
+			"finished": true,
+			"rating": 8,
+			"love": ["Сюжет", "Механики", "Атмосфера"]
+		},
+		{
+			"name": "The Life and Suffering of Sir Brante",
+			"image": "images/TheLifeandSufferingofSirBrante.jpg",
+			"finished": true,
+			"rating": 9,
+			"love": ["Сюжет", "Механики", "Подача"]
+		},
+		{
+			"name": "Planet of Lana",
+			"image": "images/PlanetofLana.jpg",
+			"finished": false,
+			"rating": 6,
+			"love": ["Графика", "Механики"]
+		},
+		{
+			"name": "Suicide Guy",
+			"image": "images/SuicideGuy.jpg",
+			"finished": false,
+			"rating": 6,
+			"love": ["Механики"]
+		},
+		{
+			"name": "VOID/BREAKER",
+			"image": "images/VOIDBREAKER.jpg",
+			"finished": false,
+			"rating": 9,
+			"love": ["Графика", "Паркур", "Геймплей"]
+		},
+		{
+			"name": "Level Devil",
+			"image": "images/LevelDevil.jpg",
+			"finished": true,
+			"rating": 10,
+			"love": ["Сложность", "Геймплей", "Троллинг"]
+		},
+		{
+			"name": "IMSCARED",
+			"image": "images/IMSCARED.jpg",
+			"finished": false,
+			"rating": 8,
+			"love": ["Механики"]
+		},
+		{
+			"name": "Subverse",
+			"image": "images/Subverse.jpg",
+			"finished": true,
+			"rating": 9,
+			"love": ["Юмор", "Сюжет", "Графика"]
+		},
+		{
+			"name": "Hades II",
+			"image": "images/HadesII.jpg",
+			"finished": true,
+			"rating": 7,
+			"love": ["Сюжет", "Геймплей"]
+		},
+		{
+			"name": "Borderlands 2",
+			"image": "images/Borderlands2.jpg",
+			"finished": true,
+			"rating": 9,
+			"love": ["Сюжет", "Юмор"]
+		},
+		{
+			"name": "The Suicide of Rachel Foster",
+			"image": "images/TheSuicideofRachelFoster.jpg",
+			"finished": true,
+			"rating": 7,
+			"love": ["Графика", "Атмосфера", "Локации"]
+		},
+		{
+			"name": "Still Wakes the Deep",
+			"image": "images/StillWakestheDeep.jpg",
+			"finished": true,
+			"rating": 8,
+			"love": ["Сюжет", "Атмосфера"]
+		},
+		{
+			"name": "The Vanishing of Ethan Carter",
+			"image": "images/TheVanishingofEthanCarter.jpg",
+			"finished": true,
+			"rating": 10,
+			"love": ["Сюжет", "Повествование", "Механики"]
+		},
+		{
+			"name": "Back to the Dawn",
+			"image": "images/BacktotheDawn.jpg",
+			"finished": false,
+			"rating": 7,
+			"love": ["Механики", "Сюжет", "Стиль"]
+		},
+		{
+			"name": "Dead Space",
+			"image": "images/DeadSpace.jpg",
+			"finished": true,
+			"rating": 9,
+			"love": ["Сюжет", "Графика", "Атмосфера"]
+		},
+		{
+			"name": "Artis",
+			"image": "images/Artis.jpg",
+			"finished": false,
+			"rating": 4,
+			"love": ["Стиль"]
+		},
+		{
+			"name": "Assemble with Care",
+			"image": "images/AssemblewithCare.jpg",
+			"finished": true,
+			"rating": 8,
+			"love": ["Механики", "Подача", "Уют"]
+		},
+		{
+			"name": "DARK SOULS",
+			"image": "images/DARKSOULS.jpg",
+			"finished": false,
+			"rating": 8,
+			"love": ["Сложность", "Геймплей", "Мир"]
+		},
+		{
+			"name": "Lords of the Fallen",
+			"image": "images/LordsoftheFallen.jpg",
+			"finished": true,
+			"rating": 10,
+			"love": ["Сложность", "Графика", "Геймплей"]
+		},
+		{
+			"name": "Hi-Fi RUSH",
+			"image": "images/HiFiRUSH.jpg",
+			"finished": false,
+			"rating": 9,
+			"love": ["Музыка", "Атмосфера", "Геймплей"]
+		},
+		{
+			"name": "Kholat",
+			"image": "images/Kholat.jpg",
+			"finished": false,
+			"rating": 6,
+			"love": ["Атмосфера", "Механики"]
+		},
+		{
+			"name": "LAN Party Adventures",
+			"image": "images/LANPartyAdventures.jpg",
+			"finished": false,
+			"rating": 7,
+			"love": ["Механики", "Стиль"]
+		},
+		{
+			"name": "Bridge Constructor Portal",
+			"image": "images/BridgeConstructorPortal.jpg",
+			"finished": false,
+			"rating": 8,
+			"love": ["Механики", "Геймплей", "Стиль"]
+		},
+		{
+			"name": "Tiny Bunny",
+			"image": "images/TinyBunny.jpg",
+			"finished": false,
+			"rating": 5,
+			"love": ["Стиль", "Подача"]
+		},
+		{
+			"name": "PUSS!",
+			"image": "images/PUSS.jpg",
+			"finished": false,
+			"rating": 6,
+			"love": ["Механики", "Стиль"]
+		},
+		{
+			"name": "LOK Digital",
+			"image": "images/LOKDigital.jpg",
+			"finished": false,
+			"rating": 8,
+			"love": ["Механики", "Геймплей", "Стиль"]
+		},
+		{
+			"name": "Deadpool",
+			"image": "images/Deadpool.jpg",
+			"finished": true,
+			"rating": 8,
+			"love": ["Юмор", "Геймплей"]
+		},
+		{
+			"name": "Viewfinder",
+			"image": "images/Viewfinder.jpg",
+			"finished": true,
+			"rating": 9,
+			"love": ["Механики", "Стиль", "Геймплей"]
+		},
+		{
+			"name": "Cookie Clicker",
+			"image": "images/CookieClicker.jpg",
+			"finished": false,
+			"rating": 6,
+			"love": ["Механики", "Стиль"]
+		},
+		{
+			"name": "Half-Life 2",
+			"image": "images/HalfLife2.jpg",
+			"finished": true,
+			"rating": 9,
+			"love": ["Сюжет", "Геймплей", "Локации"]
+		},
+		{
+			"name": "Left 4 Dead",
+			"image": "images/Left4Dead.jpg",
+			"finished": true,
+			"rating": 7,
+			"love": ["Достижения", "Сюжет", "Юмор"]
+		},
+		{
+			"name": "Left 4 Dead 2",
+			"image": "images/Left4Dead2.jpg",
+			"finished": true,
+			"rating": 9,
+			"love": ["Достижения", "Уровни"]
+		},
+		{
+			"name": "Scauage",
+			"image": "images/Scauage.jpg",
+			"finished": true,
+			"rating": 10,
+			"love": ["Атмосфера", "Стиль"]
+		},
+		{
+			"name": "Bongo Cat",
+			"image": "images/BongoCat.jpg",
+			"finished": "",
+			"rating": 7,
+			"love": ["Стиль", "Минимализм"]
+		},
+		{
+			"name": "The Medium",
+			"image": "images/TheMedium.jpg",
+			"finished": false,
+			"rating": 8,
+			"love": ["Механики", "Сюжет"]
+		},
+		{
+			"name": "Mindustry",
+			"image": "images/Mindustry.jpg",
+			"finished": false,
+			"rating": 6,
+			"love": ["Механики", "Возможности"]
+		},
+		{
+			"name": "No, I'm Not a Human",
+			"image": "images/NoImNotaHuman.jpg",
+			"finished": true,
+			"rating": 7,
+			"love": ["Стиль", "Геймплей"]
+		},
+		{
+			"name": "MIMESIS",
+			"image": "images/MIMESIS.jpg",
+			"finished": "",
+			"rating": 10,
+			"love": ["Коммуникация", "Механики", "Стиль"]
+		},
+		{
+			"name": "The Headliners",
+			"image": "images/TheHeadliners.jpg",
+			"finished": "",
+			"rating": 7,
+			"love": ["Механики"]
+		},
+		{
+			"name": "The Light",
+			"image": "images/TheLight.jpg",
+			"finished": true,
+			"rating": 9,
+			"love": ["Атмосфера", "Сюжет", "Юмор"]
+		}
+	]
+}
